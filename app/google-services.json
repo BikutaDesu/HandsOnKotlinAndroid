@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481693172143",
+    "project_id": "handsonkotlinandroid",
+    "storage_bucket": "handsonkotlinandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481693172143:android:786180a6b0e558e4302f5a",
+        "android_client_info": {
+          "package_name": "br.com.bikutadesu.handsonandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481693172143-icd9b1dftal0uo4m0l7j5h88tepocjmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOzE6JFzo0u7lEoUcNMGFN82dhRMh0R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481693172143-icd9b1dftal0uo4m0l7j5h88tepocjmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
