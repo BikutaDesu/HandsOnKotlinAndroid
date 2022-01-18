@@ -33,6 +33,10 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
+
+        binding.lblSignup.setOnClickListener {
+            GoToSignUpScreen()
+        }
     }
 
     private fun AuthenticateUser(email: String, password: String) {
@@ -56,5 +60,10 @@ class MainActivity : AppCompatActivity() {
         val intent: Intent = Intent(this, RootActivity::class.java)
         startActivity(intent)
         finish()
+    }
+
+    private fun GoToSignUpScreen() {
+        val intent: Intent = Intent(this, SignUpActivity::class.java)
+        startActivity(intent)
     }
 }

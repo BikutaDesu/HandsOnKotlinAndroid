@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">HandsOnAndroid</string>
+    <string name="hint_txt_name">Full name</string>
     <string name="hint_txt_email">Email</string>
     <string name="hint_txt_password">Password</string>
-    <string name="btn_sign_in">SignIn</string>
+    <string name="hint_txt_confirm_password">Confirm password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
 </resources>
